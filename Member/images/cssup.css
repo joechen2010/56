@@ -1,0 +1,93 @@
+body
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	font-size:12px;
+}
+
+input
+{
+	border:1px solid;
+	height:16px;
+	font-size:12px;
+}
+
+.iptNone
+{
+	border:0px solid;
+	height:;
+}
+
+.iptTxtDisable
+{
+	border-top:#666666 1px solid;
+	border-left:#666666 1px solid;
+	border-right:#dddddd 1px solid;
+	border-bottom:#dddddd 1px solid;
+	background-color:#efefef;
+	height:16px;
+	font-size:12px;
+}
+
+.iptBtnYellow
+{
+	border-top:#ffff00 1px solid;
+	border-left:#ffff00 1px solid;
+	border-right:#9E6D04 1px solid;
+	border-bottom:#9E6D04 1px solid;
+	background-color:#FFAE00;
+	height:16px;
+	font-size:12px;
+}
+
+.aLink
+{
+	color:#007900;
+	text-decoration:none;
+}
+
+a
+{
+	color:#000000;
+	text-decoration:none;
+}
+
+a:hover
+{
+	color:#FFAE00;
+}
+
+table
+{
+	font-size:12px;	
+}
+
+p
+{
+	font-size:12px;
+}
+
+.BRed
+{
+	font-size:12px;
+	color:#FF0000;
+}
+
+.BGreen
+{
+	font-size:12px;
+	color:#00FF00;
+}
+
+.BDarkGreen
+{
+	font-size:12px;
+	color:#009700;
+}
+
+hr
+{
+	color:#999999;
+}

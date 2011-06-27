@@ -1,0 +1,129 @@
+BODY {
+	BACKGROUND-ATTACHMENT: fixed; MARGIN: 0px; FONT-FAMILY: "ËÎÌו"; BACKGROUND-COLOR: #ffffff
+}
+TR {
+	FONT-SIZE: 12px
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: "ËÎÌו"
+}
+FONT {
+	FONT-FAMILY: "ËÎÌו"
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #ff7a0c; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff7a0c; TEXT-DECORATION: underline
+}
+A.boldLink {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none
+}
+A.boldLink:active {
+	FONT-WEIGHT: bold; COLOR: #ff7a0c; TEXT-DECORATION: none
+}
+A.boldLink:hover {
+	FONT-WEIGHT: bold; COLOR: #ff7a0c; TEXT-DECORATION: underline
+}
+A.white {
+	FONT-WEIGHT: normal; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.white:active {
+	FONT-WEIGHT: normal; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.white:hover {
+	FONT-WEIGHT: normal; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A.black {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.black:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.black:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A.black1 {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.black1:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.black1:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.blue {
+	FONT-WEIGHT: normal; COLOR: #3366cc; TEXT-DECORATION: none
+}
+A.blue:active {
+	FONT-WEIGHT: normal; COLOR: #3366cc; TEXT-DECORATION: none
+}
+A.blue:hover {
+	FONT-WEIGHT: normal; COLOR: #3366cc; TEXT-DECORATION: underline
+}
+A.orange {
+	FONT-WEIGHT: normal; COLOR: #ff9900; TEXT-DECORATION: none
+}
+A.orange:active {
+	FONT-WEIGHT: normal; COLOR: #ff9900; TEXT-DECORATION: none
+}
+A.orange:hover {
+	FONT-WEIGHT: normal; COLOR: #ff9900; TEXT-DECORATION: underline
+}
+A.brown {
+	COLOR: #885c02; TEXT-DECORATION: none
+}
+A.brown:active {
+	COLOR: #885c02; TEXT-DECORATION: none
+}
+A.brown:hover {
+	COLOR: #885c02; TEXT-DECORATION: underline
+}
+.f14 {
+	FONT-SIZE: 14px
+}
+.bg1 {
+	BORDER-RIGHT: #009900 1px solid; BORDER-TOP: #009900 1px solid; BORDER-LEFT: #009900 1px solid; BORDER-BOTTOM: #009900 1px solid; BACKGROUND-COLOR: #ecffd9
+}
+.bg2 {
+	BORDER-RIGHT: #ff8888 1px solid; BORDER-TOP: #ff8888 1px solid; BORDER-LEFT: #ff8888 1px solid; BORDER-BOTTOM: #ff8888 1px solid; BACKGROUND-COLOR: #ffecec
+}
+.bg3 {
+	BORDER-RIGHT: #09a9d7 1px solid; BORDER-TOP: #09a9d7 1px solid; BORDER-LEFT: #09a9d7 1px solid; BORDER-BOTTOM: #09a9d7 1px solid; BACKGROUND-COLOR: #e2f5ff
+}
+.title1 {
+	BORDER-RIGHT: #fec97a 0px solid; BORDER-TOP: #fec97a 1px solid; BORDER-LEFT: #fec97a 1px solid; BORDER-BOTTOM: #fec97a 1px solid; BACKGROUND-COLOR: #fff7f0
+}
+.title2 {
+	BORDER-RIGHT: #fec97a 0px solid; BORDER-TOP: #fec97a 1px solid; BORDER-LEFT: #fec97a 0px solid; BORDER-BOTTOM: #fec97a 1px solid; BACKGROUND-COLOR: #fff7f0
+}
+.title3 {
+	BORDER-RIGHT: #fec97a 1px solid; BORDER-TOP: #fec97a 1px solid; BORDER-LEFT: #fec97a 0px solid; BORDER-BOTTOM: #fec97a 1px solid; BACKGROUND-COLOR: #fff7f0
+}
+.title4 {
+	BORDER-RIGHT: #ff9900 1px solid; BORDER-TOP: #ff9900 1px solid; BORDER-LEFT: #ff9900 1px solid; BORDER-BOTTOM: #ff9900 1px solid
+}
+.title5 {
+	LINE-HEIGHT: 25px; BORDER-BOTTOM: #fec97a 1px solid
+}
+.title6 {
+	BORDER-RIGHT: #fec97a 1px solid; BORDER-TOP: #fec97a 1px solid; BORDER-LEFT: #fec97a 1px solid; BORDER-BOTTOM: #fec97a 1px solid
+}
+.Explain {
+	FONT-SIZE: 12px; COLOR: #009900
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px
+}
+SPAN.boldRed {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN: 0px 4px; COLOR: #ff0000
+}
+.input0 {
+	BORDER-RIGHT: #808080 1px solid; BORDER-TOP: #808080 1px solid; BORDER-LEFT: #808080 1px solid; BORDER-BOTTOM: #808080 1px solid
+}
+.3line {
+	BORDER-RIGHT: #e06b0c 1px solid; BORDER-LEFT: #e06b0c 1px solid; BORDER-BOTTOM: #e06b0c 1px solid; BACKGROUND-COLOR: #ffffff
+}

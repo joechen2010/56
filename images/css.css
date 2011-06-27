@@ -1,0 +1,363 @@
+BODY {
+	FONT-SIZE: 12px; LEFT: 5px; MARGIN: 0px; COLOR: #333333; LINE-HEIGHT: 150%; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:active {
+	FONT-SIZE: 12px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 150%; TEXT-DECORATION: none
+}
+TD.nclamemo {
+	FONT-SIZE: 10pt; LINE-HEIGHT: 21pt; TEXT-DECORATION: none
+}
+TD.clamemo {
+	FONT-SIZE: 10pt; LINE-HEIGHT: 21pt; TEXT-DECORATION: none
+}
+TD.classcon {
+	FONT-SIZE: 20px; LINE-HEIGHT: 25px; TEXT-DECORATION: none
+}
+.aTwhite12:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aTwhite12:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aTwhite12:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aTwhite12:active {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Twhite12 {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.text-blue60x18 {
+	BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #6699cc 1px solid; BORDER-LEFT: #6699cc 1px solid; WIDTH: 60px; BORDER-BOTTOM: #6699cc 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #ffffff
+}
+.Twhite14 {
+	FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.ban-upwhite2 {
+	BORDER-RIGHT: #333333 2px; BORDER-TOP: #333333 2px solid; BORDER-LEFT: #333333 2px; BORDER-BOTTOM: #333333 2px; BACKGROUND-COLOR: #e0e0e0
+}
+.ban-black {
+	BORDER-TOP: #777777 3px solid; BORDER-LEFT-WIDTH: 4px; BORDER-LEFT-COLOR: #777777; BORDER-BOTTOM: #bbbbbb 2px; BACKGROUND-COLOR: #666666; BORDER-RIGHT-WIDTH: 4px; BORDER-RIGHT-COLOR: #777777
+}
+.K-arout-e5 {
+	BORDER-RIGHT: #b0b0b0 1px solid; BORDER-TOP: #b0b0b0 1px solid; BORDER-LEFT: #b0b0b0 1px solid; BORDER-BOTTOM: #b0b0b0 1px solid
+}
+.ban-orange {
+	BORDER-TOP: #ffa459 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #ffa459; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #ffa459; BACKGROUND-COLOR: #ff7301; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #ffa459
+}
+.K-downno {
+	BORDER-RIGHT: #b0b0b0 1px solid; BORDER-TOP: #b0b0b0 1px solid; BORDER-LEFT: #b0b0b0 1px solid; BORDER-BOTTOM: #b0b0b0 1px
+}
+.Torange12 {
+	FONT-SIZE: 12px; COLOR: #ff7301; LINE-HEIGHT: normal; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.Tblue14 {
+	FONT-SIZE: 14px; COLOR: #003399; LINE-HEIGHT: normal; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.K-right {
+	BORDER-TOP-WIDTH: 1px; BORDER-RIGHT: #b0b0b0 1px solid; BORDER-LEFT-WIDTH: 1px; BORDER-LEFT-COLOR: #b0b0b0; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: #b0b0b0; BORDER-TOP-COLOR: #b0b0b0
+}
+.buttom-b {
+	BORDER-RIGHT: #006699 2px; BORDER-TOP: #3399cc 3px solid; BORDER-LEFT: #3399cc 2px; BORDER-BOTTOM: #006699 2px; BACKGROUND-COLOR: #0069b5
+}
+.aTwhiteandYellow12:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aTwhiteandYellow12:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aTwhiteandYellow12:hover {
+	FONT-SIZE: 12px; COLOR: #ffff00; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aTwhiteandYellow12:active {
+	FONT-SIZE: 12px; COLOR: #ffff00; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.aBule14:link {
+	FONT-SIZE: 14px; COLOR: #003399; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aBule14:visited {
+	FONT-SIZE: 14px; COLOR: #003399; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aBule14:hover {
+	FONT-SIZE: 14px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aBule14:active {
+	FONT-SIZE: 14px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.aOrange12:link {
+	FONT-SIZE: 12px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aOrange12:visited {
+	FONT-SIZE: 12px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aOrange12:hover {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aOrange12:active {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.aTitleBgcolor:link {
+	FONT-SIZE: 13px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aTitleBgcolor:visited {
+	FONT-SIZE: 13px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aTitleBgcolor:hover {
+	FONT-SIZE: 13px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aTitleBgcolor:active {
+	FONT-SIZE: 13px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.aBlue13:link {
+	FONT-SIZE: 13px; COLOR: #003399; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aBlue13:visited {
+	FONT-SIZE: 13px; COLOR: #003399; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aBlue13:hover {
+	FONT-SIZE: 13px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aBlue13:active {
+	FONT-SIZE: 13px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.aBlack13:link {
+	FONT-SIZE: 13px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aBlack13:visited {
+	FONT-SIZE: 13px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aBlack13:hover {
+	FONT-SIZE: 13px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aBlack13:active {
+	FONT-SIZE: 13px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.K-blue {
+	BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #6699cc 1px solid; BORDER-LEFT: #6699cc 1px solid; BORDER-BOTTOM: #6699cc 1px solid; HEIGHT: 19px
+}
+.text-black-18 {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; BORDER-LEFT: #333333 1px solid; WIDTH: 60px; BORDER-BOTTOM: #333333 1px solid; HEIGHT: 18px
+}
+.ban-orange-white {
+	BORDER-RIGHT: #ff7301 3px; BORDER-TOP: #ff7301 3px solid; BORDER-LEFT: #ff7301 3px; BORDER-BOTTOM: #ff7301 3px; BACKGROUND-COLOR: #e0e0e0
+}
+.Tblack14 {
+	FONT-SIZE: 14px; COLOR: #333333; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+.aRed14:link {
+	FONT-SIZE: 14px; COLOR: #ff0000; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aRed14:visited {
+	FONT-SIZE: 14px; COLOR: #ff0000; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aRed14:hover {
+	FONT-SIZE: 14px; COLOR: #ff0000; LINE-HEIGHT: 15pt; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.ban-upblue {
+	BORDER-TOP: #0069b5 2px solid; BORDER-LEFT-WIDTH: 2px; BORDER-LEFT-COLOR: #0069b5; BORDER-BOTTOM-WIDTH: 2px; BORDER-BOTTOM-COLOR: #0069b5; BACKGROUND-COLOR: #e0e0e0; BORDER-RIGHT-WIDTH: 2px; BORDER-RIGHT-COLOR: #0069b5
+}
+.aRed13:link {
+	FONT-SIZE: 13px; COLOR: #ff0000; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aRed13:visited {
+	FONT-SIZE: 13px; COLOR: #ff0000; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aRed13:hover {
+	FONT-SIZE: 13px; COLOR: #ff0000; LINE-HEIGHT: 15pt; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.Tred13 {
+	FONT-SIZE: 13px; COLOR: #ff0000; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.aBlack14:link {
+	FONT-SIZE: 14px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aBlack14:visited {
+	FONT-SIZE: 14px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aBlack14:hover {
+	FONT-SIZE: 14px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aBlack14:active {
+	FONT-SIZE: 14px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.ban-BC1B89 {
+	BORDER-TOP: #f175c9 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #f175c9; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #f175c9; BACKGROUND-COLOR: #c6168d; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #f175c9
+}
+.ban-962D58 {
+	BORDER-TOP: #fa7db1 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #fa7db1; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #fa7db1; BACKGROUND-COLOR: #b11454; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #fa7db1
+}
+.ban-E80E70 {
+	BORDER-RIGHT: #ff7fb9 3px; BORDER-TOP: #ff7fb9 3px solid; BORDER-LEFT: #ff7fb9 3px; BORDER-BOTTOM: #ff7fb9 3px; BACKGROUND-COLOR: #e80e70; TEXT-DECORATION: none
+}
+.Tblue12 {
+	FONT-SIZE: 12px; COLOR: #003399; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+.Tred12 {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+.aRed12:link {
+	FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aRed12:visited {
+	FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aRed12:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aRed12:active {
+	FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.aBlue12:link {
+	FONT-SIZE: 12px; COLOR: #003399; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aBlue12:visited {
+	FONT-SIZE: 12px; COLOR: #003399; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aBlue12:hover {
+	FONT-SIZE: 12px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aBlue12:active {
+	FONT-SIZE: 12px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.aYellow12:link {
+	FONT-SIZE: 12px; COLOR: #ffff00; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aYellow12:visited {
+	FONT-SIZE: 12px; COLOR: #ffff00; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aYellow12:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aYellow12:active {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.kbuleright {
+	BORDER-RIGHT: #056cb7 1px solid; BORDER-TOP: #056cb7 1px; BORDER-LEFT: #056cb7 1px; BORDER-BOTTOM: #056cb7 1px
+}
+.ban-blue1 {
+	BORDER-RIGHT: #3f62cc 3px; BORDER-TOP: #3f62cc 3px solid; BORDER-LEFT: #3f62cc 3px; BORDER-BOTTOM: #3f62cc 3px; BACKGROUND-COLOR: #003399
+}
+.ban-bule2 {
+	BORDER-TOP: #80c2ff 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #80c2ff; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #80c2ff; BACKGROUND-COLOR: #1386f1; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #80c2ff
+}
+.ban-blue3 {
+	BORDER-RIGHT: #0099cc 3px; BORDER-TOP: #0099cc 3px solid; BORDER-LEFT: #0099cc 3px; BORDER-BOTTOM: #0099cc 3px; BACKGROUND-COLOR: #006699
+}
+.ban-blue4 {
+	BORDER-RIGHT: #66ccff 3px; BORDER-TOP: #66ccff 3px solid; BORDER-LEFT: #66ccff 3px; BORDER-BOTTOM: #66ccff 3px; BACKGROUND-COLOR: #0099cc
+}
+.ban-blue5 {
+	BORDER-RIGHT: #87cefa 3px; BORDER-TOP: #87cefa 3px solid; BORDER-LEFT: #87cefa 3px; BORDER-BOTTOM: #87cefa 3px; BACKGROUND-COLOR: #00bfff
+}
+.ban-blue6 {
+	BORDER-TOP: #4b61e7 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #4b61e7; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #4b61e7; BACKGROUND-COLOR: #2f3683; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #4b61e7
+}
+.ban-orange12 {
+	BORDER-RIGHT: #ffca68 3px; BORDER-TOP: #ffca68 3px double; BORDER-LEFT: #ffca68 3px; BORDER-BOTTOM: #ffca68 3px; BACKGROUND-COLOR: #ffa500
+}
+.ban-red-- {
+	BORDER-RIGHT: #ff99cc 3px; BORDER-TOP: #ff99cc 3px solid; BORDER-LEFT: #ff99cc 3px; BORDER-BOTTOM: #ff99cc 3px; BACKGROUND-COLOR: #ff1493
+}
+.ban-red--up {
+	BORDER-TOP: #ff1493 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #ff1493; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #ff1493; BACKGROUND-COLOR: #e0e0e0; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #ff1493
+}
+.ban-red13 {
+	BORDER-TOP: #ffb6c1 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #ffb6c1; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #ffb6c1; BACKGROUND-COLOR: #ff69b4; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #ffb6c1
+}
+.ban-red14 {
+	BORDER-TOP: #fe86d2 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #fe86d2; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #fe86d2; BACKGROUND-COLOR: #ff00c6; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #fe86d2
+}
+.ban-blue15 {
+	BORDER-TOP: #67b2f0 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #67b2f0; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #67b2f0; BACKGROUND-COLOR: #4682b4; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #67b2f0
+}
+.ban-blue16 {
+	BORDER-TOP: #00bfff 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #00bfff; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #00bfff; BACKGROUND-COLOR: #1e90ff; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #00bfff
+}
+.ban-blue17 {
+	BORDER-TOP: #149ed1 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #149ed1; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #149ed1; BACKGROUND-COLOR: #007caa; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #149ed1
+}
+.ban-chocolate18 {
+	BORDER-TOP: #daa520 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #daa520; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #daa520; BACKGROUND-COLOR: #d2691e; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #daa520
+}
+.ban-grueet19 {
+	BORDER-TOP: #adff2f 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #adff2f; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #adff2f; BACKGROUND-COLOR: #32cd32; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #adff2f
+}
+.ban-blue20 {
+	BORDER-TOP: #3333cc 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #3333cc; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #3333cc; BACKGROUND-COLOR: #373798; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #3333cc
+}
+.ban-firebrick21 {
+	BORDER-TOP: #dd1d1d 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #dd1d1d; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #dd1d1d; BACKGROUND-COLOR: #b22222; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #dd1d1d
+}
+.ban-red22 {
+	BORDER-TOP: #ff0000 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #ff0000; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #ff0000; BACKGROUND-COLOR: #cc0000; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #ff0000
+}
+.ban-slategray23 {
+	BORDER-TOP: #ff7301 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #ff7301; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #ff7301; BACKGROUND-COLOR: #708090; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #ff7301
+}
+.ban-blue24 {
+	BORDER-TOP: #3bc5ff 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #3bc5ff; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #3bc5ff; BACKGROUND-COLOR: #0099da; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #3bc5ff
+}
+.ban-orange25 {
+	BORDER-TOP: #ffa459 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #ffa459; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #ffa459; BACKGROUND-COLOR: #ff6600; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #ffa459
+}
+.ban-blue26 {
+	BORDER-TOP: #5ca1ff 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #5ca1ff; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #5ca1ff; BACKGROUND-COLOR: #4169e1; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #5ca1ff
+}
+.ban-blue8 {
+	BORDER-TOP: #7bf4ff 3px solid; BORDER-LEFT-WIDTH: 3px; BORDER-LEFT-COLOR: #7bf4ff; BORDER-BOTTOM-WIDTH: 3px; BORDER-BOTTOM-COLOR: #7bf4ff; BACKGROUND-COLOR: #00cee0; BORDER-RIGHT-WIDTH: 3px; BORDER-RIGHT-COLOR: #7bf4ff
+}
+.Thui12 {
+	FONT-SIZE: 12px; COLOR: #999999; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.K-bottom {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-LEFT-COLOR: #b0b0b0; BORDER-TOP-COLOR: #b0b0b0; BORDER-BOTTOM: #b0b0b0 1px solid; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: #b0b0b0
+}
+.k-orange-up {
+	BORDER-TOP: #ff7301 1px solid; BORDER-LEFT-WIDTH: 1px; BORDER-LEFT-COLOR: #ff7301; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: #ff7301; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: #ff7301
+}
+.bgcolor-orange {
+	BACKGROUND-COLOR: #ffebd7
+}
+.k-blue-arould {
+	BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #6699cc 1px solid; BORDER-LEFT: #6699cc 1px solid; BORDER-BOTTOM: #6699cc 1px solid
+}
+.aBlack12:link {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aBlack12:visited {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.aBlack12:hover {
+	FONT-SIZE: 12px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.aBlack12:active {
+	FONT-SIZE: 12px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.border {
+	BORDER-RIGHT: #ff7301 1px solid; BORDER-TOP: #ff7301 1px solid; BORDER-LEFT: #ff7301 1px solid; BORDER-BOTTOM: #ff7301 1px solid
+}
+.webmarket:link {
+	FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.webmarket:visited {
+	FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.webmarket:hover {
+	FONT-SIZE: 14px; COLOR: #ff7301; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.webmarket:active {
+	FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 15pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}

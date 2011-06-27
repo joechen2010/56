@@ -1,0 +1,186 @@
+BODY {
+	MARGIN-TOP: 0px; FONT-SIZE: 14px; COLOR: #000; FONT-FAMILY: ËÎÌå
+}
+TD {
+	FONT-SIZE: 14px; COLOR: #000; FONT-FAMILY: ËÎÌå
+}
+SELECT {
+	FONT-SIZE: 12px
+}
+INPUT {
+	FONT-SIZE: 12px
+}
+A:link {
+	COLOR: #3d362b; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #3d362b; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #a60360; TEXT-DECORATION: underline
+}
+.subclass:link {
+	COLOR: #3d362b; TEXT-DECORATION: underline
+}
+.subclass:visited {
+	COLOR: #3d362b; TEXT-DECORATION: underline
+}
+.subclass:hover {
+	COLOR: #a60360; TEXT-DECORATION: underline
+}
+.AW:link {
+	COLOR: #3d362b; TEXT-DECORATION: none
+}
+.AW:visited {
+	COLOR: #3d362b; TEXT-DECORATION: none
+}
+.AW:hover {
+	COLOR: #fff
+}
+.NOL {
+	TEXT-DECORATION: none
+}
+.S {
+	FONT-SIZE: 12px
+}
+.C {
+	FONT-SIZE: 14px
+}
+.M {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.white {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #fff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.white14 {
+	FONT-WEIGHT: normal; FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal; TEXT-DECORATION: underline
+}
+.gray {
+	COLOR: #ccc
+}
+.nopic {
+	FONT-WEIGHT: normal; FONT-SIZE: 14px; COLOR: #333; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.listtopwd {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #666; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.red {
+	FONT-WEIGHT: bold; COLOR: #cc3300
+}
+.red:link {
+	COLOR: #cc3300
+}
+.topcolor {
+	BORDER-TOP: #ffa55b 4px solid
+}
+.topcolor3 {
+	BORDER-TOP: #000000 4px solid
+}
+.red:visited {
+	COLOR: #cc3300
+}
+.red:hover {
+	COLOR: #f60
+}
+.orange {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff7300; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal; TEXT-DECORATION: underline
+}
+.HEAD {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.s_line_h {
+	FONT-SIZE: 12px; LINE-HEIGHT: 130%
+}
+.show_new {
+	FONT-SIZE: 12px; LINE-HEIGHT: 150%
+}
+.outborder {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.imgbg {
+	BACKGROUND-IMAGE: url(../images/img_bg.jpg); BACKGROUND-REPEAT: repeat-x
+}
+.norightbuttonborder {
+	BORDER-TOP: #ffffff 5px solid; FONT-SIZE: 12px; BACKGROUND: #f1f1f1; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 2px solid; HEIGHT: 25px; TEXT-ALIGN: center
+}
+.nobianbuttonborder {
+	BORDER-TOP: #ffffff 5px solid; FONT-SIZE: 12px; BACKGROUND: #f1f1f1; BORDER-BOTTOM: #cccccc 2px solid; HEIGHT: 25px; TEXT-ALIGN: center
+}
+.buttoncolor {
+	BORDER-TOP: #ffa55b 4px solid; FONT-WEIGHT: normal; FONT-SIZE: 12px; BACKGROUND: #ff7300; COLOR: #fff; LINE-HEIGHT: normal; FONT-STYLE: normal; HEIGHT: 25px; TEXT-ALIGN: center; FONT-VARIANT: normal
+}
+.glow {
+	FONT-WEIGHT: bold; FILTER: progid:DXImageTransform.Microsoft.Glow(color=#000000,strength=2); COLOR: #ffffff
+}
+#glow {
+	COLOR: #ffffff
+}
+#glow A {
+	FONT-WEIGHT: bold; FILTER: progid:DXImageTransform.Microsoft.Glow(color=#000000,strength=2); COLOR: #ffffff; TEXT-DECORATION: underline
+}
+#glow A:hover {
+	FONT-WEIGHT: bold; FILTER: progid:DXImageTransform.Microsoft.Glow(color=#000000,strength=2); COLOR: #ff7300; TEXT-DECORATION: underline
+}
+#white {
+	FONT-SIZE: 9pt; COLOR: #ffffff
+}
+#white A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+#white A:hover {
+	COLOR: #ffff00; TEXT-DECORATION: underline
+}
+.line14 {
+	LINE-HEIGHT: 150%
+}
+.news {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 14px; PADDING-BOTTOM: 5px; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 150%; PADDING-TOP: 5px; BORDER-BOTTOM: #cccccc 1px solid
+}
+.news_title {
+	FONT-SIZE: 14px; PADDING-BOTTOM: 8px; LINE-HEIGHT: 150%; PADDING-TOP: 5px
+}
+.news_right {
+	BORDER-RIGHT: #cccccc 1px solid; FONT-SIZE: 12px; PADDING-BOTTOM: 8px; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 150%; PADDING-TOP: 5px
+}
+.news_right_class {
+	FONT-SIZE: 12px; PADDING-BOTTOM: 8px; LINE-HEIGHT: 150%; PADDING-TOP: 5px
+}
+.S1 {
+	FONT-SIZE: 12px; COLOR: #cccccc
+}
+#title {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #f4f4f4; text-valign: "middle"
+}
+#title A {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #ff7300; FONT-FAMILY: ºÚÌå; HEIGHT: 25px
+}
+#title A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #a60360; FONT-FAMILY: ºÚÌå; HEIGHT: 25px
+}
+.right {
+	PADDING-RIGHT: 5px; FONT-SIZE: 12px; TEXT-ALIGN: right
+}
+.btmborder {
+	BORDER-BOTTOM: #cccccc 1px solid
+}
+#s_w {
+	FONT-SIZE: 12px
+}
+#s_w A:link {
+	COLOR: #fff
+}
+#s_w A:visited {
+	COLOR: #fff
+}
+#s_w A:hover {
+	COLOR: #ff0
+}
+.porductborder {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; BORDER-LEFT: #333333 1px solid; BORDER-BOTTOM: #333333 1px solid
+}
+.font12 {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 18px; FONT-FAMILY: Geneva; BACKGROUND-COLOR: #94dfff
+}
+.mid5 {
+	LINE-HEIGHT: 5px
+}

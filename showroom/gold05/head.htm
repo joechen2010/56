@@ -1,0 +1,58 @@
+<table cellspacing=0 cellpadding=0 width="100%" border=0>
+  <tbody> 
+  <tr valign=top> 
+    <td colspan=2> 
+      <table height=60 cellspacing=0 cellpadding=0 width="100%" align=center border=0>
+        <tbody> 
+        <tr> 
+          <td width=236 height="65"> 
+            <div align=center><img src="images/logo.gif" width="196" height="65"></div>
+          </td>
+          <td valign=top align=right width=767 height="65"> 
+            <table height=28 cellspacing=0 cellpadding=0 width=420 bgcolor=#f5f5f5 border=0>
+              <tbody> 
+              <tr> 
+                <td width=11><img height=28 src="images/icon_top1.gif" width=11></td>
+                <td align=middle><font color=#ff6600>·</font><a href="../../">首 
+                  页</a><font color=#ff6600> ·</font><a 
+      href="../../reg/User_Reg.asp">会员免费注册</a> <font color=#ff6600>·</font><a href="../../bearingpass/index.htm"><FONT color=#ff0000>物流通会员服务</FONT></a> 
+                  <font color=#ff6600>·</font><a href="../../Guestbook/">在线咨询</a> 
+                  <font  color=#ff6600>·</font><a href="http://www.gbearing.com" target="_blank">国际站</a> 
+                </td>
+                <td align=right width=11><img height=28  src="images/icon_top2.gif" width=11></td>
+                <td align=right width=11 bgcolor=#ffffff>&nbsp;</td>
+              </tr>
+              </tbody> 
+            </table>
+          </td>
+        </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td valign=bottom height=123> 
+      <table height=111 cellspacing=0 cellpadding=0 width="100%" border=0>
+        <tbody> 
+        <tr> 
+          <td align=middle bgcolor=#ffb300> 
+            <table cellspacing=0 cellpadding=0 width="90%" border=0>
+              <tbody> 
+              <tr> 
+                <td class=font22><%if rs_q("logo")<>"" then
+		       response.write "<img src=""../../member/"&rs_q("logo")&""" width=176 height=64>"
+		  else
+		       response.write "<img src=""images/logo_01.gif"" width=176 height=64 alt="""">"
+		  end if%>&nbsp;&nbsp;<span class=biaoti><strong><%=rs_q("qymc")%></strong></span></td>
+              </tr>
+              </tbody> 
+            </table>
+          </td>
+        </tr>
+        </tbody>
+      </table>
+    </td>
+    <td valign=bottom align=right width="30%" background=images/bg_ban.gif><img height=123 src="images/img_7.gif" width=291></td>
+  </tr>
+  </tbody>
+</table>

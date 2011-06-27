@@ -1,0 +1,82 @@
+BODY {
+	FONT-SIZE: 14px; COLOR: #000; FONT-FAMILY: ??
+    line-height: 20px
+}
+TD {
+	FONT-SIZE: 14px; COLOR: #000; FONT-FAMILY: ??
+}
+SELECT {
+	FONT-SIZE: 12px
+}
+INPUT {
+	FONT-SIZE: 12px
+}
+A:link {
+	COLOR: #333333
+}
+A:visited {
+	COLOR: #333333
+}
+A:active {
+	COLOR: #333333
+}
+A:hover {
+	COLOR: #ff7000
+}
+.t200 {
+	LINE-HEIGHT: 220%
+}
+.bai14:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.bai14:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.bai14:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.bai14 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.M {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.tophs:link {
+	FONT-SIZE: 12px; COLOR: #333333; TEXT-DECORATION: underline
+}
+.tophs:visited {
+	FONT-SIZE: 12px; COLOR: #333333; TEXT-DECORATION: underline
+}
+.tophs:active {
+	FONT-SIZE: 12px; COLOR: #333333; TEXT-DECORATION: underline
+}
+.tophs:hover {
+	FONT-SIZE: 12px; COLOR: #ff6600; TEXT-DECORATION: underline
+}
+.tophs {
+	FONT-WEIGHT: normal; COLOR: #333333; TEXT-DECORATION: none
+}
+.S {
+	FONT-SIZE: 12px
+}
+.yin1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; FILTER: DropShadow(Color=000000, OffX=1, OffY=1, Positive=1); COLOR: #ff8020; HEIGHT: 1px
+}
+.pp12 {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 19px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.b12 {
+	FONT-SIZE: 12px; COLOR: #996600; LINE-HEIGHT: 18px
+}
+.c12 {
+	FONT-SIZE: 12px; COLOR: #336600; LINE-HEIGHT: 18px
+}
+.d12 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: 18px
+}
+.f16 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #ff6600
+}
+.button03 {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #fefefe 1px solid; FONT-SIZE: 12px; BACKGROUND: #ececec; BORDER-LEFT: #fefefe 1px solid; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #aaaaaa 1px solid; WHITE-SPACE: normal; LETTER-SPACING: 6px; HEIGHT: 23px
+}

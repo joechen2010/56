@@ -1,0 +1,27 @@
+BODY
+{
+FONT-SIZE: 12px;
+FONT-FAMILY: ËÎÌו;
+background:#CAD7F7;
+}
+
+TD
+{
+FONT-SIZE: 9pt;
+FONT-FAMILY: ËÎÌו; 
+}
+
+A:link {
+      	COLOR: #000000;  
+		TEXT-DECORATION: none 
+}
+
+A:visited {
+	     COLOR: #000000;  
+	     TEXT-DECORATION: none
+ }
+
+A:hover {	
+        COLOR: #CC0000;  
+        TEXT-DECORATION: underline 
+}

@@ -1,0 +1,51 @@
+BODY {
+	FONT-SIZE: 12px
+}
+.style {
+	FONT-SIZE: 12px; LINE-HEIGHT: 24px
+}
+.line {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.tile {
+	FONT-WEIGHT: bold; FONT-SIZE: 30px; COLOR: #ff0000;LINE-HEIGHT: 39px
+}
+.tile2 {
+	BORDER-RIGHT: #cccccc 1px; BORDER-TOP: #cccccc 1px; FONT-WEIGHT: normal; FONT-SIZE: 16px; BORDER-LEFT: #cccccc 1px; COLOR: #ff6600; BORDER-BOTTOM: #cccccc 1px
+}
+.line1 {
+	BORDER-RIGHT: #cccccc 1px; BORDER-TOP: #cccccc 1px; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px
+}
+A:link {
+	COLOR: #000000
+}
+A:visited {
+	COLOR: #000000
+}
+A:hover {
+	COLOR: #8c8c8c; TEXT-DECORATION: none
+}
+.white:link {
+	FONT-SIZE: 14px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.white:visited {
+	FONT-SIZE: 14px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.white:hover {
+	FONT-SIZE: 14px; COLOR: #999999; TEXT-DECORATION: none
+}
+.line2 {
+	BORDER-RIGHT: #999999 1px; BORDER-TOP: #999999 1px solid; BORDER-LEFT: #999999 1px; BORDER-BOTTOM: #999999 1px
+}
+.zi1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px
+}
+.zi2 {
+	FONT-SIZE: 12px; COLOR: #999999; LINE-HEIGHT: 24px
+}
+.s2{
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 18px
+}
+td{
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 18px
+}

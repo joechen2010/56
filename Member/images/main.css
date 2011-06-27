@@ -1,0 +1,99 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #2c68b1; FONT-SIZE: 12px; SCROLLBAR-HIGHLIGHT-COLOR: #4da7e4; SCROLLBAR-SHADOW-COLOR: #2c68b1; SCROLLBAR-3DLIGHT-COLOR: #336699; SCROLLBAR-ARROW-COLOR: #e7f2f6; SCROLLBAR-TRACK-COLOR: #2c68b1; FONT-FAMILY: ËÎÌו,simsun,Arial
+}
+TD {
+	FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.menu {
+	BORDER-RIGHT: #0099ff 2px outset; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND-IMAGE: url(http://www.cx56w.com/member/images/menu_bg.gif); CURSOR: hand; COLOR: #ffffff; BACKGROUND-COLOR: #2c68b1
+}
+.submenu {
+	BORDER-RIGHT: #2c68b1 1px solid; BACKGROUND-POSITION: 50% bottom; PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(http://www.cx56w.com/member/images/sub_menu_bg.gif); BACKGROUND-REPEAT: repeat-x
+}
+.submenuend {
+	BORDER-RIGHT: #2c68b1 1px solid; BACKGROUND-POSITION: 50% bottom; PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(http://www.cx56w.com/member/images/sub_menu_bg.gif); BORDER-BOTTOM: #2c68b1 2px solid; BACKGROUND-REPEAT: repeat-x
+}
+#pos {
+	BACKGROUND-POSITION: left center; PADDING-LEFT: 10px; FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(http://www.cx56w.com/member/images/bg_here.gif); COLOR: #ff6600; BACKGROUND-REPEAT: no-repeat
+}
+#pos A {
+	COLOR: #ff6600
+}
+#topMenu {
+	COLOR: #ffffff
+}
+#topMenu A {
+	COLOR: #ffffff
+}
+#mctopMenu {
+	COLOR: #ffffff
+}
+#mctopMenu A {
+	COLOR: #ffffff
+}
+A:link {
+	COLOR: #2c68b1; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #2c68b1; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff731f; TEXT-DECORATION: none
+}
+#sysmsg {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ff6600
+}
+#main {
+	LINE-HEIGHT: 12px
+}
+#mchome {
+	PADDING-LEFT: 30px; FONT-SIZE: 14px; BACKGROUND-IMAGE: url(http://www.cx56w.com/member/images/mc_top_index.gif); COLOR: #ff9900; BACKGROUND-REPEAT: no-repeat
+}
+#mchome A {
+	COLOR: #ff6600
+}
+#hotline {
+	PADDING-LEFT: 10px; COLOR: #ffffff
+}
+#hotline A {
+	COLOR: #ffffff
+}
+.titletx {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff
+}
+.adotline {
+	LINE-HEIGHT: 25px
+}
+.newsline {
+	BACKGROUND-POSITION: left center; PADDING-LEFT: 15px; BACKGROUND-IMAGE: url(http://www.cx56w.com/member/images/icon_arrow_r.gif); MARGIN: 5px; WIDTH: 500px; BACKGROUND-REPEAT: no-repeat
+}
+#footer {
+	COLOR: #ffffff
+}
+#footer A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#footer A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#footer A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.white {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff
+}
+.m {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px
+}
+INPUT.btsub {
+	BORDER-RIGHT: #072a66 1px solid; BORDER-TOP: #072a66 1px solid; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(http://www.cx56w.com/member/images/btbg.gif); PADDING-BOTTOM: 0px; BORDER-LEFT: #072a66 1px solid; COLOR: #ffffff; PADDING-TOP: 3px; BORDER-BOTTOM: #072a66 1px solid
+}
+.box {
+	BORDER-RIGHT: #336699 1px solid; BORDER-TOP: #336699 1px solid; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(http://www.cx56w.com/member/images/btbg1.gif); BORDER-LEFT: #336699 1px solid; COLOR: #003366; BORDER-BOTTOM: #336699 1px solid; BACKGROUND-COLOR: #edf6ff
+}
+SELECT {
+	BORDER-RIGHT: #31639c 1px solid; BORDER-TOP: #31639c 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #31639c 1px solid; COLOR: #003366; BORDER-BOTTOM: #31639c 1px solid; BACKGROUND-COLOR: #b6dcf4
+}
+TEXTAREA {
+	BORDER-RIGHT: #31639c 1px solid; BORDER-TOP: #31639c 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #31639c 1px solid; COLOR: #003366; BORDER-BOTTOM: #31639c 1px solid; BACKGROUND-COLOR: #b6dcf4
+}

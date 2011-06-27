@@ -1,0 +1,281 @@
+
+<SCRIPT language=javascript>
+<!--
+
+function menu_display(t_id,i_id){//显示隐藏程序
+        var t_id;//表格ID
+        var i_id;//图片ID
+        var on_img="http://www.cx56w.com/member/images/fold_2.gif";//打开时图片
+        var off_img="http://www.cx56w.com/member/images/fold_1.gif";//隐藏时图片
+                if (t_id.style.display == "none") {//如果为隐藏状态
+                t_id.style.display="";//切换为显示状态
+                i_id.src=on_img;//换图
+}
+        else{//否则
+                t_id.style.display="none";//切换为隐藏状态
+                i_id.src=off_img;
+                }//换图
+
+}
+-->
+
+</SCRIPT>
+<script>
+function msg(am){
+	alert('诚信物流网友情提示：\n\n  免费会员没有此功能，请及时申请为物流通会员，把握商机。\n  咨询电话：+86-574-63809664 27861860   传真：+86-574-27860361 ');
+}
+</script>
+      <TABLE height=32 cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          
+    <TD id=mchome align=middle bgColor=#ffffff height=32><A 
+            href="index.asp"><STRONG>控制中心首页</STRONG></A></TD>
+  </TR></TBODY></TABLE>
+      
+<TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+  <TBODY> 
+  <TR> 
+    <TD class=menu onclick=javascript:menu_display(table1,img1); 
+            height=22><IMG id=img1 src="images/fold_2.gif" align=absMiddle 
+            name=img1> 企业资料管理</TD>
+  </TR>
+  <TBODY id=table1> 
+  <TR> 
+    <TD class=submenu vAlign=center height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="com_edit.asp">企业基本资料</A> </TD>
+  </TR>
+  <TR> 
+    <TD class=submenu vAlign=center height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="<%if session("hydj")=1 then response.write "javascript:msg()" else response.write "cimg_add.asp"%>">上传公司图片</A></TD>
+  </TR>
+  <TR> 
+    <TD class=submenu vAlign=center height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="<%if session("hydj")=0 then response.write "javascript:msg()" else response.write "qyry.asp"%>">发布企业荣誉</A></TD>
+  </TR>
+  <TR> 
+    <TD class=submenu vAlign=center height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="modify_info.asp">修改联系信息</A> </TD>
+  </TR>
+  <TR>
+    <TD class=submenu vAlign=center height=22><img height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <a 
+            href="changpass.asp">修改登录密码</a> </TD>
+  </TR>
+  <TR>
+    <TD class=submenu vAlign=center height=22><img height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <a 
+            href="../login/Logout.asp">注销</a> </TD>
+  </TR>  
+  </TBODY>
+</TABLE>
+      
+<TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+  <TBODY> 
+  <TR> 
+    <TD class=menu onclick=javascript:menu_display(table2,img2); 
+            height=22><IMG id=img2 src="images/fold_2.gif" align=absMiddle 
+            name=img2>信息发布区</TD>
+  </TR>
+  <TBODY id=table2> 
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="index.asp">发布信息统计</A></TD>
+  </TR>  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="car_add.asp">发布车源信息</A></TD>
+  </TR>  
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="goods_add.asp">发布货源信息</A></TD>
+  </TR>
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="gq_add.asp">发布供求信息</A></TD>
+  </TR>
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="repair_add.asp">发布修理配件</A></TD>
+  </TR>  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="files_add.asp">登记车辆档案</A></TD>
+  </TR> 
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="kf_add.asp">发布库房供求</A></TD>
+  </TR> 
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="banyun_add.asp">发布搬运吊装</A></TD>
+  </TR>         
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="hyzx_add.asp">发布货运专线信息</A> </TD>
+  </TR>
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="kyzx_add.asp">发布客运专线信息</A> </TD>
+  </TR>  
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="zp_add.asp">发布招聘求职信息</A> </TD>
+  </TR>   
+  </TBODY>
+</TABLE>
+      
+<TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+  <TBODY> 
+  <TR> 
+    <TD class=menu onclick=javascript:menu_display(table3,img3); 
+            height=22><IMG id=img3 src="images/fold_2.gif" align=absMiddle 
+            name=img3>信息管理区</TD>
+  </TR>
+  <TBODY id=table3> 
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="car_manage.asp">管理车源信息</A></TD>
+  </TR>
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="goods_manage.asp">管理货源信息</A> </TD>
+  </TR>
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="gq_manage.asp">管理供求信息</A></TD>
+  </TR>
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="repair_manage.asp">管理修理配件</A></TD>
+  </TR>  
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="files_manage.asp">管理车辆档案</A></TD>
+  </TR> 
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="kf_manage.asp">管理库房供求</A></TD>
+  </TR> 
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="banyun_manage.asp">管理搬运吊装</A></TD>
+  </TR>          
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="hyzx_Manage.asp">管理货运专线信息</A></TD>
+  </TR> 
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="kyzx_Manage.asp">管理客运专线信息</A></TD>
+  </TR> 
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="zp_manage.asp">管理招聘求职信息</A></TD>
+  </TR>  
+  </TBODY>
+</TABLE>
+      
+<TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+  <TBODY> 
+  <TR> 
+    <TD class=menu onclick=javascript:menu_display(table4,img4); 
+            height=22><IMG id=img4 src="images/fold_2.gif" align=absMiddle 
+            name=img4> 商业往来管理</TD>
+  </TR>
+  <TBODY id=table4> 
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="outbox.asp">我发出的留言</A></TD>
+  </TR>
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="inbox.asp">我收到的留言</A> </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+      
+<TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+  <TBODY> 
+  <TR> 
+    <TD class=menu onclick=javascript:menu_display(table5,img5); 
+            height=22><IMG id=img5 src="images/fold_2.gif" align=absMiddle 
+            name=img5> 商铺模版管理</TD>
+  </TR>
+  <TBODY id=table5> 
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="<%if session("hydj")=0 then response.write "javascript:msg()" else response.write "logo_add.asp"%>">商铺招牌设置</A></TD>
+  </TR>
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="<%if session("hydj")=0 then response.write "javascript:msg()" else response.write "webmod.asp"%>">商铺风格设置</A></TD>
+  </TR>
+  <TR> 
+    <TD class=submenu height=22><img height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <a 
+            href="../showroom/index.asp?GsID=<%=gsid%>" target="_blank">进入我的商铺</a></TD>
+  </TR>
+  </TBODY> 
+</TABLE>
+      <TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+  <TBODY> 
+  <TR> 
+    <TD class=menu onclick=javascript:menu_display(table7,img7); 
+            height=22><IMG id=img7 src="images/fold_2.gif" align=absMiddle 
+            name=img7> 其他功能</TD>
+  </TR>
+  <TBODY id=table7> 
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="../Guestbook/" 
+target=_blank>在线留言给我们</A></TD>
+  </TR>
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <A 
+            href="../About/update_esc.asp" 
+            target=_blank>申请物流通会员</A></TD>
+  </TR>
+  <TR> 
+    <TD class=submenu height=22><IMG height=11 
+            src="images/arrow.gif" width=7 align=absMiddle> <a href="../About/update_est.asp" target="_blank">申请关键词排名</a></TD>
+  </TR>
+  </TBODY>
+</TABLE>
+      <TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+        <TBODY>
+        <TR>
+          
+    <TD id=hotline align=left><IMG 
+            src="images/icon_service.gif" 
+            align=absMiddle>客服热线:13116601816</TD>
+  </TR></TBODY></TABLE>

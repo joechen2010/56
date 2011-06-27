@@ -1,0 +1,63 @@
+
+<TABLE class=zi2 height=60 cellSpacing=5 cellPadding=0 width="100%" align=center 
+border=0>
+  <TBODY> 
+  <TR>
+    <TD vAlign=bottom width=192>
+      <DIV align=center><IMG src="images/logo.gif"></DIV>
+    </TD>
+    <TD vAlign=bottom align=right width=701><FONT color=#ff6600>·</FONT><A 
+      href="../../">首 页</A><FONT color=#ff6600> ·</FONT><A 
+      href="../../reg/User_Reg.asp">会员免费注册</A> <FONT 
+      color=#ff6600>·</FONT><A 
+      href="../../service">物流通会员</A> <FONT 
+      color=#ff6600>·</FONT><A 
+      href="../../Guestbook/">在线咨询</A> <FONT 
+      color=#ff6600>·</FONT><A href="http://www.gbearing.com" target="_blank">国际站</A> 
+      <HR SIZE=1>
+    </TD></TR></TBODY></TABLE>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr> 
+        
+    <td background="images/skin3_01.jpg" height="100" width="74%"> 
+      <DIV class=tile>
+            
+        <DIV align=right><STRONG><%=rs_q("qymc")%></STRONG></DIV>
+      </DIV></td>
+        
+    <td width="26%" background="images/skin3_01.jpg">&nbsp;</td>
+      </tr>
+    </table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td height="60" width="26%">
+      <table width=266 border=0 cellpadding=0 cellspacing=0>
+        <tr> 
+          <td width="176"> 
+            <%if rs_q("logo")<>"" then
+		       response.write "<img src=""../../member/"&rs_q("logo")&""" width=176 height=64>"
+		  else
+		       response.write "<img src=""images/logo_01.gif"" width=176 height=64 alt="""">"
+		  end if%>
+          </td>
+          <td><img src="images/logo_02.gif" width=90 height=64 alt=""></td>
+        </tr>
+      </table>
+    </td>
+    <td width="73%" background="images/skin3_M_3.gif">
+      <TABLE height=23 cellSpacing=0 cellPadding=0 width="100%" 
+      border=0>
+        <TBODY> 
+        <TR>
+          <TD class=zi2 width="97%" height=23>
+            <DIV align=right><font color=#ff0000>物流通金牌会员：创建于<%=rs_q("idate")%></font></DIV>
+          </TD>
+          <TD class=zi2 width=10>&nbsp;</TD></TR></TBODY></TABLE>
+      </td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="5" bgcolor="f37600"></td>
+  </tr>
+</table>
