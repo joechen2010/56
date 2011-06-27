@@ -43,7 +43,7 @@ end function
 %>
 <HTML>
 <HEAD>
-<TITLE>中国诚信物流网--全国最专业最诚信的物流信息交易平台|物流,物流网,中国物流网,物流信息网</TITLE>
+<TITLE>玉林货运信息网--全国最专业最诚信的物流信息交易平台|物流,物流网,中国物流网,物流信息网</TITLE>
 <meta name=keywords content="物流,物流网,中国物流网,168货运信息网">
 <meta name=description content="物流-168货运信息网是大型关于物流资讯和物流产品应用,产品厂家介绍的网络媒体.欢迎成为168货运信息网注册会员提供更多服务!Find the logistics products and services in this website!">
 <LINK href="images/css.css" type=text/css rel=stylesheet>

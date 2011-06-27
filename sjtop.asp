@@ -64,9 +64,9 @@ document.write(" " +weekday + " ");</script>
           </td>
           <td valign=center class=s height="30" width="75%" align="right"> 
             <div align="center"><a href="index.asp">首页</a> ┆ <a href="aboutus/index.asp">服务中心</a> 
-              ┆ <a href="agent/index.asp">加盟分站</a> ┆ <a href="/union/index.asp">各地分站</a> 
-              ┆ <a href="javascript:window.external.AddFavorite('http://www.cx56w.com', '“168货运信息网”&quot;/http://www.cx56w.com')" target="_self">收藏本站</a> 
-              ┆ <a href="http://www.cx56w.com" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cx56w.com');return(false);" style="behavior: url(#default#homepage)">设为首页</a></div>
+              
+              ┆ <a href="javascript:window.external.AddFavorite('http://www.cx56w.com', '“玉林货运信息网”&quot;/http://www.0775168.com')" target="_self">收藏本站</a> 
+              ┆ <a href="http://www.0775168.com" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.0775168.com');return(false);" style="behavior: url(#default#homepage)">设为首页</a></div>
 
           </td>
         </tr>
